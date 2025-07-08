@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🧑‍🎓 Final semester InfoSec student @ SAIT, Calgary  
+- 🧑‍🎓 InfoSec graduate from SAIT, Calgary  
 - 🛡️ Focused on Web Security, Threat Hunting & Ethical Hacking  
 - ⚡ CTF Competitor (🥇1st place Infected Networks, 🥉3rd place CyberSci Regionals)  
 - 🌱 Currently learning: OSCP, DevSecOps, Web Development, and automation
