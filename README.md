@@ -2,7 +2,7 @@
 
 <p align="center">
   🔐 Cybersecurity | 🖥 Web Dev | ☁️ IT Enthusiast <br/>
-  InfoSec Graduate · CTF Entheusiast · Always Learning
+  InfoSec Graduate · CTF Entheusiast · AI · Always Learning
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🧑‍🎓 InfoSec graduate  
 - 🛡️ Focused on Systems Security, Threat Hunting & Ethical Hacking  
 - ⚡ CTF Competitor (🥇1st place Infected Networks, 🥉3rd place CyberSci Regionals)  
-- 🌱 Currently learning: OSCP, DevSecOps, Web Development, and automation
+- 🌱 Currently learning: OSCP, DevSecOps, Web Development, AI/LLM, and automation
 
 ---
 
