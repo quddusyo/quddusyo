@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🧑‍🎓 InfoSec graduate  
-- 🛡️ Focused on Web Security, Threat Hunting & Ethical Hacking  
+- 🛡️ Focused on Systems Security, Threat Hunting & Ethical Hacking  
 - ⚡ CTF Competitor (🥇1st place Infected Networks, 🥉3rd place CyberSci Regionals)  
 - 🌱 Currently learning: OSCP, DevSecOps, Web Development, and automation
 
