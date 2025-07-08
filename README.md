@@ -52,5 +52,5 @@
 
 ---
 
-> ⚡ “Securing systems. Building solutions. Serving purpose.”
+> ✨ “Building secure solutions for a safer future.”
 
