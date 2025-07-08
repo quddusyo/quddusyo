@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yousuf Quddus 👋</h1>
+<h1 align="center">Hi 👋, I'm Yousuf Quddus</h1>
 
 <p align="center">
   🔐 Cybersecurity | 🖥 Web Dev | ☁️ IT Enthusiast <br/>
