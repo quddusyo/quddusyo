@@ -2,7 +2,7 @@
 
 <p align="center">
   🔐 Cybersecurity | 🖥 Web Dev | ☁️ IT Enthusiast <br/>
-  InfoSec Graduate · CTF Entheusiast · Ful Stack Dev · Always Learning
+  InfoSec Graduate · CTF Entheusiast · Always Learning
 </p>
 
 ---
