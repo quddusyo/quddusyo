@@ -31,7 +31,7 @@
 
 - 🔨 [Estimate Roof Calculator](https://github.com/quddusyo/Estimate-Roof) — A smart quote generator built with React, for proof of concept. 
 - 🕵️‍♂️ [Phishing Link Detector](https://github.com/quddusyo/Cybersecurity-Tools-for-Automation/tree/main/PhishingLinkDetector) — Tool to scan and validate suspicious URLs  
-- 🧰 [KillPhish App](https://github.com/killphish-app) — Fully responsive user phishing training and awareness platform
+- 🧰 [KillPhish App](https://github.com/quddusyo/killphish-app) — Fully responsive user phishing training and awareness platform
 
 ---
 
