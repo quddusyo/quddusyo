@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yousuf Q</h1>
+<h1 align="center">Hi 👋, I'm Yousuf</h1>
 
 <p align="center">
   🔐 Cybersecurity | 🖥 Web Dev <br/>
