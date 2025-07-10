@@ -2,7 +2,7 @@
 
 <p align="center">
   🔐 Cybersecurity | 🖥 Web Dev <br/>
-  InfoSec Graduate · IT Entheusiast 
+  InfoSec · IT Entheusiast 
 </p>
 
 ---
