@@ -38,15 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quddusyo&show_icons=true&theme=github_dark" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quddusyo&theme=github-dark&hide_border=true" alt="streak" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://ycode-portfoliosite.web.app/)
@@ -54,6 +45,4 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yousuf.securemail@email.com)
 
 ---
-
-> ✨ “Building secure solutions for a safer future.”
 
