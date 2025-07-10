@@ -1,18 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yousuf Quddus</h1>
 
 <p align="center">
-  🔐 Cybersecurity | 🖥 Web Dev | ☁️ IT Enthusiast <br/>
-  InfoSec Graduate · CTF Entheusiast · AI · Always Learning
+  🔐 Cybersecurity | 🖥 Web Dev <br/>
+  InfoSec Graduate · IT Entheusiast 
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 🧑‍🎓 InfoSec Graduate & Founder of FeGate Solutions Inc
-- 🛡️ Focused on Systems Security, Threat Hunting & Ethical Hacking  
-- ⚡ CTF Competitor (🥇1st place Infected Networks, 🥉3rd place CyberSci Regionals)  
-- 🌱 Currently learning: OSCP, DevSecOps, Web Development, AI/LLM, and Automation
 
 ---
 
@@ -41,7 +32,7 @@
 
 ### 🧠 Projects
 
-- 🔨 [Estimate Roof Calculator](https://github.com/quddusyo/Estimate-Roof) — A smart quote generator built with React, for proof of concept. 
+- 🔨 [Estimate Roof Calculator](https://github.com/quddusyo/Estimate-Roof) — A smart quote generator built with React. 
 - 🕵️‍♂️ [Phishing Link Detector](https://github.com/quddusyo/Cybersecurity-Tools-for-Automation/tree/main/PhishingLinkDetector) — Tool to scan and validate suspicious URLs  
 - 🧰 [KillPhish App](https://github.com/quddusyo/killphish-app) — Fully responsive user phishing training and awareness platform
 
