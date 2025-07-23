@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yousuf</h1>
 
 <p align="center">
-  🔐 Cybersecurity | 🖥 Web Dev <br/>
-  InfoSec · IT Entheusiast 
+  🦾 AI | 🔐 Cybersecurity | 🖥 Software Dev <br/>
+  InfoSec · Tech Entheusiast 
 </p>
 
 ---
